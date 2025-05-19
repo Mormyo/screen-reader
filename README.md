@@ -1,0 +1,1 @@
+Need python, tesseract installed. 
